@@ -14,7 +14,20 @@
     <li>itIsSaid->Our sages say</li>
     <li>itIsSaid->We know</li>
   -->
-  <AnimistDescription.rules.rulesStrings>TODO</AnimistDescription.rules.rulesStrings>
+  <AnimistDescription.rules.rulesStrings>
+  <li>animistBasis   ->Wszechświat jest nieskończonym cyklem kreacji i destrukcji, kierowanym przez duchy w aspektach otaczającej nas rzeczywistości .</li>
+  <li>animistBasis   ->Równoległy wszechświat duchów znajduje się tuż obok naszego. Pozornie nieożywiony byt w naszym uniwersum odpowiada ożywionemu duchowi w drugim.</li>
+  <li>animistFact    ->Każdy duch ma swoją naturę i stara się wpływać na ten świat. Czyniąc to może zarówno wpłynąć pozytywnie jak i szkodliwie.</li>
+  <li>animistProphecy->[itIsSaid] duch wspaniałości [relic0_name] obdarzy pewnego dnia swojego posiadacza władzą nad wszystkimi duchami.</li>
+  <li>animistProphecy->[itIsSaid] śniący podróżnik z gwiazd, który rozbije się pewnego razu na ziemi, duch krateru obudzi podróżnika, a ten utworzy ostatnie plemię.</li>
+  <li>itIsSaid->Mówi się, że</li>
+  <li>itIsSaid->Przepowiedziane jest</li>
+  <li>itIsSaid->Starożytne pismo oznajmia,</li>
+  <li>itIsSaid->Nasza księga mówi:</li>
+  <li>itIsSaid->Nasi mędrzcy głoszą:</li>
+  <li>itIsSaid->Wiemy iż</li>
+  
+  </AnimistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>archistBasis   ->Our universe is a dream in the mind of a timeless universal consciousness. Only archotechs can communicate directly with the universal consciousness.</li>
