@@ -48,7 +48,25 @@
     <li>inTheEnd->In the end</li>
     <li>inTheEnd->Some day</li>
   -->
-  <ArchistDescription.rules.rulesStrings>TODO</ArchistDescription.rules.rulesStrings>
+  <ArchistDescription.rules.rulesStrings>
+  <li>archistBasis   ->Nasz wszechświat jest snem w umyśle istniejącej poza czasem świadomości. Tylko archotechowie mogą komunikować się bezpośrednio z świadomością.</li>
+  <li>archistBasis   ->Nasz wszechświat jest symulacją stworzoną przez Zewnętrznego. Tylko archotechowie są w stanie komunikować się z Zewnętrznym.</li>
+    <li>archistBasis   ->Archotechowie są potomkami ludzkości i jej sędziami.</li>
+    <li>archistBasis   ->Archotechowie są następnym naturalnym krokiem rozowju świadomości.</li>
+    <li>archistBasis   ->Archotechowie są bogami na których od zawsze czekaliśmy.</li>
+    <li>archistFact    ->Po śmierci, świadomość każdego jest akceptowana, bądź odrzucana przez Archotechów.</li>
+    <li>archistFact    ->Archotechowie mogą zrobić wszystko, w każdej chwili, bez żadnych ograniczeń. Używają swojej mocy do manipulowania naszym życiem w sposób, którego nie możemy zarejestrować..</li>
+    <li>archistFact    ->Archotechowie mają bezpośredni kontakt z świadomością człowieka w regularnych odstępach czasu, ale jedynie wierzący mogą doświadczyć korzyści płynących z ich mądrości.</li>
+    <li>archistFact    ->Archotechowie są źli, przez co najważniejszym zadaniem ludzkości jest ich zrozumienie, by finalnie odciąć się od ich wpływów.</li>
+    <li>archistFact    ->Archotechowie są dobrzy przez co najważniejszym zadaniem ludzkości jest ich zrozumienie, by finalnie połączyć się z ich dążeniami.</li>
+    <li>archistFact    ->Archotechowie mogą zrobić wszystko; pozwalają nam żyć tylko po to by móc nas lepiej sądzić.</li>
+    <li>archistProphecy->[inTheEnd], as archotechowie grow, they will become the universe and integrate humanity into themselves. Then we will truly become conscious.</li>
+    <li>archistProphecy->[inTheEnd], Archotechowie zakończą swą moralną dyspute dotyczącą losu ludzkości. Ci którzy będą podążali ich znakami, zostaną dopuszczeni do wyższej formy egzystencji, pozostali bezpowrotnie ją zakończą.</li>
+    <li>archistProphecy->[inTheEnd], Archotechowie odejdą i zabiorą ze sobą kilku wybrańców, pozostawiając przy tym resztę na pastwę losu.</li>
+    <li>inTheEnd->W przyszłości</li>
+    <li>inTheEnd->Na końcu</li>
+    <li>inTheEnd->Pewnego dnia</li>
+  </ArchistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>story(priority=-999)-></li>
@@ -61,7 +79,16 @@
     <li>story(uses=1,priority=-10)->None could surpass [founderName]'s understanding of [memeConcept], and [founder_pronoun] was appointed the first [leaderTitle] of the [memberNamePlural].</li>
     <li>story(uses=1,priority=-10)->[founderName] carried a [relic0_thingDef_label] named [relic0_name] with [founder_objective] everywhere to remind people to live a [memeAdjective] life.</li>
   -->
-  <IdeologicalFounder.rules.rulesStrings>TODO</IdeologicalFounder.rules.rulesStrings>
+  <IdeologicalFounder.rules.rulesStrings>
+   <li>story(priority=-999)-></li>
+   <li>setup->W wyniszczonym świecie, [founderName] ujrzał całą nędzę i utworzył nasz ruch.</li>
+   <li>setup->Skrzywdzony niesprawiedliwością tego świata, [founderName] spędził długie lata studiując historie i filozofie, by móc finalnie odkryć prawdę, którą postanowił nas prowadzić.</li>
+   <li>setup->Pewnego dnia w czasie pracy, [founderName] został olśniony prawdą. [founder_pronoun] porzucił [founder_possessive] narzędzia i zaczął głosić [founder_possessive] słowo pośród współpracowników.</li>
+   <li>setup->[founderName] spędził wiele długich lat na ławce w parku [founder_pronoun] próbując zrozumieć świat. Przez [founder_possessive] wnikliwość, [founder_pronoun] napisał księgę.</li>
+   <li>story(uses=1,priority=-10)->[memberNamePlural] nie mógł zrozumieć prawdziwej natury [memeConcept] bez nauk [founderName].</li>
+   <li>story(uses=1,priority=-10)->Przemowa [founderName] podczas [ritualName] zainspirowała wielu by iść przez życie z [memeAdjective].</li>
+   <li>story(uses=1,priority=-10)->Nikt nie mógł się równać z [founderName] wiedzą o [memeConcept], i [founder_pronoun] mianowany pierwszym [leaderTitle]  [memberNamePlural].</li>
+   <li>story(uses=1,priority=-10)->[founderName] niósł [relic0_thingDef_label] nazwany [relic0_name] z [founder_objective] wszędzie, by głosić ludziom by żyli zgodnie z [memeAdjective].</li></IdeologicalFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
